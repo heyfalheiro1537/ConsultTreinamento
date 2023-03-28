@@ -1,1 +1,1 @@
-Ola esse é meu primeiro arquivo
+Meu Git, com alguns projetos do treinamento
